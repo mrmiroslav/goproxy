@@ -2,7 +2,7 @@ package main
 
 import (
 	"crypto/tls"
-	"github.com/elazarl/goproxy"
+	"github.com/mrmiroslav/goproxy"
 	"github.com/gorilla/websocket"
 	"log"
 	"net/http"
